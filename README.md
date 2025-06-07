@@ -1,2 +1,2 @@
-# Lyc-e
+# Lycée
 Enseignement de mathématiques en lycée
